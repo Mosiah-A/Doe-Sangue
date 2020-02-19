@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mosiah Andrade",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
