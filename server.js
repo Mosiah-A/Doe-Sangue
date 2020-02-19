@@ -12,10 +12,10 @@ server.use(express.urlencoded({ extended: true}))
 const Pool = require('pg').Pool
 const db = new Pool({
     user: 'postgres',
-    password: 'adms7777',
+    password: 'sua-senha',
     host: 'localhost',
     port: 5432,
-    database: 'Doe'
+    database: 'nome-do-database'
 })
 
 // configurando a template  engine
